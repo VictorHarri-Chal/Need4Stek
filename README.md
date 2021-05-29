@@ -13,7 +13,7 @@ Epitech project. Simulation of an autonomous car between the software CoppeliaSi
 
 <!-- GETTING STARTED -->
 ## Getting Started
-After CoppeliaSim being extracted, execute ```sh./copelliaSim.sh``` in the folder, it will open the software
+After CoppeliaSim being extracted, execute ```./copelliaSim.sh``` in the folder, it will open the software
 
 Open a track (.ttt) in CopelliaSim: `FILE->OPEN->need4stek->scene`
 
