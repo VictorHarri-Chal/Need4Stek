@@ -17,4 +17,4 @@ After CoppeliaSim being extracted, execute ```./copelliaSim.sh``` in the folder,
 
 Open a track (.ttt) in CopelliaSim: `FILE->OPEN->need4stek->scene`
 
-Open an other terminal and execute ```make``` then ```./pipe.sh```
+Open an other terminal, go to the need4stek folder, and execute ```make``` then ```./pipe.sh``` 
