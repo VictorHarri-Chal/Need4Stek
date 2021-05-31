@@ -8,7 +8,7 @@ Epitech project. Simulation of an autonomous car between the software CoppeliaSi
 
 <!-- REQUIREMENTS -->
 ## Requirements
-* You need to download and extract ![CoppeliaSim Edu V4.2.0](https://www.coppeliarobotics.com/downloads)
+* You need to download and extract [CoppeliaSim Edu V4.2.0](https://www.coppeliarobotics.com/downloads)
 * GCC
 
 <!-- GETTING STARTED -->
